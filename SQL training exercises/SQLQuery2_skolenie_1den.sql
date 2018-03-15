@@ -244,3 +244,4 @@ having count(PE.CISLO_ZAM) >=2
 --2.den nove query
 
 
+
